@@ -1,0 +1,96 @@
+# Privacy Policy for Mow Maze
+
+**Effective Date:** November 17, 2026  
+**Publisher:** ACC Apps  
+**Contact Email:** [accappdev@gmail.com](mailto:accappdev@gmail.com)
+
+ACC Apps ("we," "our," or "us") built **Mow Maze** as an ad-supported mobile game. This Privacy Policy explains how information is handled when you use the **Mow Maze** Android application (the "App").
+
+By downloading or using Mow Maze, you agree to the practices described in this Privacy Policy.
+
+---
+
+## 1. Information We Do Not Collect Directly
+
+ACC Apps does **not** require account creation, registration, or sign-in to play Mow Maze. We do **not** directly collect, store, or maintain personal information such as your name, email address, phone number, physical address, contacts, photos, camera feed, microphone audio, or precise GPS location on our own servers.
+
+If you contact us by email at [accappdev@gmail.com](mailto:accappdev@gmail.com) for customer support, we will only use your email address and message content to respond to your inquiry.
+
+---
+
+## 2. Locally Stored Game Data
+
+Mow Maze saves your gameplay progress locally on your device using Android's standard private app storage (`SharedPreferences`). This includes:
+
+- Unlocked contracts, star ratings, completion timestamps, and 24-hour yard regrowth timers
+- Virtual in-game cash, fuel tank status, water-damage drying timers, and buddy delivery timers
+- Purchased mower upgrades, cosmetics, daily/weekly challenge progress, and earned achievement badges
+- Audio and haptic feedback preferences
+
+This game data remains on your device and is not transmitted to ACC Apps. If you have Android device backup enabled in your system settings, Android may back up this local app data to your personal Google Drive backup according to your device settings. You can erase all local game data at any time by clearing the App's storage in Android Settings or uninstalling the App.
+
+---
+
+## 3. Permissions Used by the App
+
+Mow Maze requests only the minimal permissions needed for gameplay and ad delivery:
+
+- **Internet Access (`INTERNET`):** Used solely by the integrated Google Mobile Ads SDK to load and display advertisements.
+- **Vibration Control (`VIBRATE`):** Used solely for optional in-game tactile haptic feedback while mowing or bumping into obstacles (which can be toggled off in-game).
+
+Mow Maze does **not** request access to your camera, microphone, contacts, precise location, call logs, or external file storage.
+
+---
+
+## 4. Third-Party Advertising & Data Collected by Partners
+
+Mow Maze displays banner advertisements and optional rewarded video advertisements using **Google AdMob** (Google Mobile Ads SDK). When ads are requested or displayed, Google and its advertising partners may automatically collect and process certain device and usage data, which can include:
+
+- **Device or Other Identifiers:** Google Advertising ID (AAID) and app set ID
+- **Network & Approximate Location Data:** IP address (which may be used to estimate general/coarse geographic region for ad relevance and fraud prevention)
+- **App Activity & Interaction Data:** Ad views, clicks, reward completions, and basic app interaction events
+- **Diagnostics & Device Information:** Device model, operating system version, screen size, language settings, and SDK crash/performance diagnostics
+
+This data is collected and processed by Google to deliver, measure, and personalize advertisements (where permitted) and to detect fraud and ensure ad security.
+
+To learn more about how Google handles data in mobile apps, please review:
+- [Google Privacy Policy](https://policies.google.com/privacy)
+- [How Google Uses Information from Sites or Apps That Use Our Services](https://policies.google.com/technologies/partner-sites)
+
+---
+
+## 5. Your Advertising Choices & Opt-Out Options
+
+You can control or limit personalized advertising on your Android device at any time:
+
+- Open your device **Settings** → **Google** → **Ads** (or **Privacy** → **Ads** depending on your Android version).
+- Select **Reset advertising ID** or **Delete advertising ID**, or enable **Opt out of Ads Personalization**.
+
+Please note that opting out of personalized ads does not remove advertisements from the App; instead, ads shown will be non-personalized. Rewarded ads in Mow Maze are always optional and user-initiated.
+
+---
+
+## 6. Children's Privacy
+
+Mow Maze is intended for a general audience and is **not directed to children under the age of 13** (or the equivalent minimum age in your jurisdiction). ACC Apps does not knowingly collect personal information from children. If you are a parent or guardian and believe a child has provided personal information to us via support email or another channel, please contact us at [accappdev@gmail.com](mailto:accappdev@gmail.com) so we can promptly delete it.
+
+---
+
+## 7. Data Security & Retention
+
+Because ACC Apps does not operate external user accounts or personal data servers for Mow Maze, gameplay data is stored locally on your device under Android's application sandbox protections. Any data processed by Google AdMob is retained and protected in accordance with Google's security and retention policies. Support emails sent to [accappdev@gmail.com](mailto:accappdev@gmail.com) are retained only as long as reasonably necessary to resolve your request.
+
+---
+
+## 8. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time if we add new features, change third-party services, or need to comply with legal or platform requirements. Any updates will be posted with an updated "Effective Date" at the top of this document.
+
+---
+
+## 9. Contact Us
+
+If you have any questions, concerns, or requests regarding this Privacy Policy or Mow Maze, please contact:
+
+**ACC Apps**  
+Email: [accappdev@gmail.com](mailto:accappdev@gmail.com)
