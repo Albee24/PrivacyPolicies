@@ -76,4 +76,5 @@ We may update this Privacy Policy from time to time to reflect changes in our ap
 ## Contact Us
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or your data, please contact us at:
-- **Email**: support@accappdev.com *(or your designated contact email)*
+- **Email**: support@accappdev.com
+
